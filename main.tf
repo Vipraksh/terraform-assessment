@@ -30,7 +30,7 @@ resource "aws_s3_bucket" "web3" {
   bucket = var.game3[count.index]
 
   tags = {
-    Owner   = "vipraksh"
-    Purpose = "Traning"
+    Owner   = var.Owner
+    Purpose = var.purpose
   }
 }

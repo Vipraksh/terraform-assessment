@@ -12,19 +12,19 @@
 
 #     },
 #     "instance2"={
-#          "Name"="Zeba-2"
+#          "Name"="vipraksh-2"
 #         "Owner"="vipraksh.srivastava"
 #         "Purpose"="training"
 
 #     },
 #     "instance2"={
-#          "Name"="Zeba-3"
+#          "Name"="vipraksh-3"
 #         "Owner"="vipraksh.srivastava"
 #         "Purpose"="training"
 #     }
 # }
 
-
-
+Owner= "vipraksh"
+Purpose= "training"
 
 game3=["vipraksh-1","vipraksh-2"]
